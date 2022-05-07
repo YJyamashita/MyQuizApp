@@ -96,15 +96,15 @@ object Constants {
 
         questionsList.add(que9)
 
-        // 10
-        val que10 = Question(
-            10, "What country does this flag belong to?",
-            R.drawable.ic_flag_of_kuwait,
-            "Kuwait", "Jordan",
-            "Sudan", "Palestine", 1
-        )
-
-        questionsList.add(que10)
+//        // 10
+//        val que10 = Question(
+//            10, "What country does this flag belong to?",
+//            R.drawable.ic_flag_of_kuwait,
+//            "Kuwait", "Jordan",
+//            "Sudan", "Palestine", 1
+//        )
+//
+//        questionsList.add(que10)
 
         return questionsList
     }
